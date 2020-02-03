@@ -1,0 +1,18 @@
+/* consumer-group */
+{
+    "etag": null,
+    "id": "/subscriptions/188fcaa2-2cb8-4d58-8dfb-329fb6b5234a/resourceGroups/iot-cdv-raspberry-iot/providers/Microsoft.Devices/IotHubs/cdv-iot-hub/eventHubEndpoints/events/ConsumerGroups/cdv-iot-consumer-group",
+    "name": "cdv-iot-consumer-group",
+    "properties": {
+      "created": "Fri, 24 Jan 2020 15:39:14 GMT"
+    },
+    "resourceGroup": "iot-cdv-raspberry-iot",
+    "type": "Microsoft.Devices/IotHubs/EventHubEndpoints/ConsumerGroups"
+}
+/*service-connection-string*/
+{
+    "connectionString": "HostName=cdv-iot-hub.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=WnGx+UQOfMnHRlwsytwQOLdhTaULPdq9qn7U08qFSmA="
+}
+
+
+

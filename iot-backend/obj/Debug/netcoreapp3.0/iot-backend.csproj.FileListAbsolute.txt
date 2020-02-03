@@ -1,0 +1,6 @@
+/home/kkrystian/OneDrive/projekty/przetwarazanie_rozproszone/iot-backend/obj/Debug/netcoreapp3.0/iot-backend.csprojAssemblyReference.cache
+/home/kkrystian/OneDrive/projekty/przetwarazanie_rozproszone/iot-backend/obj/Debug/netcoreapp3.0/staticwebassets/iot-backend.StaticWebAssets.Manifest.cache
+/home/kkrystian/OneDrive/projekty/przetwarazanie_rozproszone/iot-backend/obj/Debug/netcoreapp3.0/staticwebassets/iot-backend.StaticWebAssets.xml
+/home/kkrystian/OneDrive/projekty/przetwarazanie_rozproszone/iot-backend/obj/Debug/netcoreapp3.0/iot-backend.MvcApplicationPartsAssemblyInfo.cache
+/home/kkrystian/OneDrive/projekty/przetwarazanie_rozproszone/iot-backend/obj/Debug/netcoreapp3.0/iot-backend.AssemblyInfoInputs.cache
+/home/kkrystian/OneDrive/projekty/przetwarazanie_rozproszone/iot-backend/obj/Debug/netcoreapp3.0/iot-backend.AssemblyInfo.cs
